@@ -1,0 +1,392 @@
+[
+  {
+    "college": "CST",
+    "programs": [
+      {
+        "program": "Computer Science",
+        "years": [
+          {
+            "year": "100 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "BIO111 General Biology I", "credits": 3 },
+                  { "courseName": "CHM111 General Physical Chemistry", "credits": 3 },
+                  { "courseName": "CHM119 General Chemistry Practical I", "credits": 1 },
+                  { "courseName": "CIT111 Microsoft Office Word Specialist", "credits": 0 },
+                  { "courseName": "CSC111 Introduction to Computer Science", "credits": 3 },
+                  { "courseName": "MAT111 Algebra", "credits": 3 },
+                  { "courseName": "MAT112 Trigonometry and Analytical Geometry", "credits": 2 },
+                  { "courseName": "PHY111 Mechanics and Properties of Matter", "credits": 2 },
+                  { "courseName": "PHY119 Physics Practical I", "credits": 1 },
+                  { "courseName": "CST111 Use of Library, Study Skills and Information Communication Technology I", "credits": 2 },
+                  { "courseName": "GST111 Communication in English I", "credits": 2 },
+                  { "courseName": "EDS111 Entrepreneurial Development Studies I", "credits": 1 },
+                  { "courseName": "TMC111 Total Man Concept I", "credits": 1 },
+                  { "courseName": "TMC112 Total Man Concept - Sports I", "credits": 0 }
+                ],
+                "electives": [],
+
+                "elective_number": 0
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "CIT121 Microsoft Office Specialist Excel", "credits": 0 },
+                  { "courseName": "CIT141 COMPTIA II", "credits": 0 },
+                  { "courseName": "CSC121 Introduction to Problem Solving", "credits": 2 },
+                  { "courseName": "CSC125 Operating System I", "credits": 2 },
+                  { "courseName": "MAT121 Calculus", "credits": 3 },
+                  { "courseName": "MAT122 Introduction to Vector Analysis", "credits": 2 },
+                  { "courseName": "PHY121 Electricity and Magnetism I", "credits": 3 },
+                  { "courseName": "PHY122 Atomic and Nuclear Physics", "credits": 2 },
+                  { "courseName": "PHY129 Physics Practical II", "credits": 1 },
+                  { "courseName": "CST121 Use of Library, Study Skills and Information Communication Technology II", "credits": 2 },
+                  { "courseName": "GST121 Communication in English II", "credits": 2 },
+                  { "courseName": "GST122 Communication in French", "credits": 2 },
+                  { "courseName": "EDS121 Entrepreneurial Development Studies II", "credits": 1 },
+                  { "courseName": "TMC121 Introduction to the Total Man Concept II", "credits": 1 },
+                  { "courseName": "TMC122 Total Man Concept - Sports II", "credits": 0 }
+                ],
+                "electives": [],
+                "elective_number": 0
+                
+              }
+            ]
+          },
+          {
+            "year": "200 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CIT211 Java Foundations Certified Junior Associate", "credits": 0 },
+                  { "courseName": "CSC211 Computer Programming I", "credits": 3 },
+                  { "courseName": "CSC213 Structured Programming", "credits": 3 },
+                  { "courseName": "CSC214 High Performance Computing & Database Management I", "credits": 3 },
+                  { "courseName": "CSC216 Foundations of Sequential and Parallel Programming", "credits": 3 },
+                  { "courseName": "MAT212 Mathematical Methods I", "credits": 3 },
+                  { "courseName": "PHY232 Electric Circuit and Electronics", "credits": 3 },
+                  { "courseName": "GST211 Logic, Philosophy and Human Existence", "credits": 2 },
+                  { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                  { "courseName": "EDS211 Entrepreneurial Development Studies III", "credits": 1 },
+                  { "courseName": "TMC211 Total Man Concept III", "credits": 1 },
+                  { "courseName": "TMC212 Total Man Concept –Sports III", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
+                  { "courseName": "ECN111 Introduction to Economics I", "credits": 3 },
+                  { "courseName": "MAT213 Differential Equations I", "credits": 3 },
+                  { "courseName": "MAT214 Linear Algebra I", "credits": 2 },
+                  { "courseName": "MAT215 Probability Distribution I", "credits": 3 }
+                ],
+
+                "elective_number":1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "CSC221 Computer Programming II", "credits": 0 },
+                  { "courseName": "CSC223 Computer Hardware", "credits": 3 },
+                  { "courseName": "CSC224 Introduction to Computational Biology", "credits": 3 },
+                  { "courseName": "CSC225 Operating Systems", "credits": 2 },
+                  { "courseName": "CSC227 Computer Architecture and Organization I", "credits": 3 },
+                  { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
+                  { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
+                  { "courseName": "CIT221 Oracle Database: SQL Fundamentals", "credits": 2 },
+                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
+                  { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
+                  { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
+                  { "courseName": "TMC222 Total Man Concept - Sports IV", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "CSC226 Statistical Methods", "credits": 2 },
+                  { "courseName": "MAT225 Abstract Algebra", "credits": 3 },
+                  { "courseName": "MAT226 Regression and Analysis of Variance", "credits": 3 },
+                  { "courseName": "MAT229 Linear Algebra II:", "credits": 2 },
+                  { "courseName": "MIS221 Introduction to Management Information System", "credits": 3 }
+                ],
+                "elective_number":2
+              }
+            ]
+          },
+          {
+            "year": "300 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC310 Internet Programming", "credits": 3 },
+                  { "courseName": "CSC312 Fundamentals of Data Structures", "credits": 3 },
+                  { "courseName": "CSC313 Object-Oriented Programming", "credits": 3 },
+                  { "courseName": "CSC316 Research Methods", "credits": 2 },
+                  { "courseName": "CSC317 Systems Analysis and Design", "credits": 2 },
+                  { "courseName": "CSC318 Compiler Construction I", "credits": 3 },
+                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2 },
+                  { "courseName": "CIT310 Cyber Security Specialist - Application Security", "credits": 0 },
+                  { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
+                  { "courseName": "TMC311 Total Man Concept V", "credits": 1 },
+                  { "courseName": "TMC312 Total Man Concept –Sports V", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "CIS319 Statistical Computing", "credits": 2 },
+                  { "courseName": "CSC314 Theory of Computing", "credits": 2 },
+                  { "courseName": "CSC319 Operations Research", "credits": 2 }
+                ],   
+                "elective_number": 2
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "CSC329 (SIWES)", "credits": 6 }
+                ],
+                "electives":[],
+                "elective_number": 0
+          }
+        ]
+      },
+          {
+            "year": "400 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC411 Software Engineering", "credits": 3 },
+                  { "courseName": "CSC413 Algorithms and Complexity Analysis", "credits": 3 },
+                  { "courseName": "CSC415 Artificial Intelligence", "credits": 3 },
+                  { "courseName": "CSC416 Discrete Structure", "credits": 3 },
+                  { "courseName": "CSC431 Computational Science and Numerical Methods", "credits": 3 },
+                  { "courseName": "CSC433 Computer Graphics and Animation", "credits": 2 },
+                  { "courseName": "DLD211 Leadership and Developmental Studies", "credits": 0 },
+                  { "courseName": "EDS411 Entrepreneurial Development Studies VII", "credits": 1 },
+                  { "courseName": "TMC411 Total Man Concept VII", "credits": 1 },
+                  { "courseName": "TMC412 Total Man Concept –Sports VII", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "CSC436 Compiler Construction II", "credits": 2 },
+                  { "courseName": "MIS415 Project Management", "credits": 2 }
+                ],
+                "elective_number":1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses":[
+                  { "courseName": "CIS421 Computer Security", "credits": 2 },
+                  { "courseName": "CSC423 Organization of Programming Languages", "credits": 3 },
+                  { "courseName": "CSC424 Computer Networks/ Communication", "credits": 3 },
+                  { "courseName": "CSC425 Computer Architecture and Organization II", "credits": 3 },
+                  { "courseName": "CSC429 Project", "credits": 6 },
+                  { "courseName": "CSC441 Human-Computer Interface (HCI)", "credits": 2 },
+                  { "courseName": "DLD221 Leadership Dynamics", "credits": 0 },
+                  { "courseName": "EDS421 Entrepreneurial Development Studies VIII", "credits": 1 },
+                  { "courseName": "TMC421 Total Man Concept VIII", "credits": 1 },
+                  { "courseName": "TMC422 Total Man Concept - Sports VIII", "credits": 0 },
+                  { "courseName": "TTG222 Leadership Dynamics", "credits": 0 }
+
+
+                ],
+                "electives":[
+                  { "courseName": "CSC442 Computational Biology & Interdisciplinary Topics", "credits": 2 },
+                  { "courseName": "CSC443 Modeling & Simulations", "credits": 2 },
+                  { "courseName": "CSC444 Computer System Performance Evaluation", "credits": 2 },
+                  { "courseName": "CSC446 Distributed Computing Systems", "credits": 2 }
+                ],
+                "elective_number":2
+              }
+            ]
+          }
+        ]
+
+      },
+
+      {
+        "program": "Management Information Systems",
+        "years": [
+          {
+            "year": "100 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "ACC111 Principles of Accounting", "credits": 2 },
+                  { "courseName": "CSC111 Introduction to Computer Science", "credits": 3 },
+                  { "courseName": "ECN111 Introduction to Economics", "credits": 3 },
+                  { "courseName": "MAT111 Algebra", "credits": 3 },
+                  { "courseName": "MAT112 Trigonometry and Geometry", "credits": 2 },
+                  { "courseName": "PHY111 Mechanics & Properties of Matter", "credits": 2 },
+                  { "courseName": "CST111 use of Library and Information", "credits": 2 },
+                  { "courseName": "GST111 Communication in English", "credits": 2 },
+                  { "courseName": "CIT111 Office Specialist", "credits": 0 },
+                  { "courseName": "EDS111 Entreprenuerial & Development Studies ", "credits": 1 },
+                  { "courseName": "TMC111 Total Man Concept", "credits": 2 },
+                  { "courseName": "TMC112 TMC Sports", "credits": 0 }
+                ],
+                "electives": [],
+
+                "elective_number": 0
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "ACC 121 Principles of Accounting II", "credits": 2 },
+                  { "courseName": "BUS124 Business Communication", "credits": 2 },
+                  { "courseName": "CIT121 Excel Specialist", "credits": 0 },
+                  { "courseName": "CIT141 COMPTIA II", "credits": 0 },
+                  { "courseName": "CSC121 Introduction to Problem Solving", "credits": 2 },
+                  { "courseName": "CSC125 Operating System I", "credits": 2 },
+                  { "courseName": "ECN121 Introduction to Economics II", "credits": 3 },
+                  { "courseName": "MAT121 Calculus", "credits": 3 },
+                  { "courseName": "MAT122 Vector Analysis", "credits": 2 },
+                  { "courseName": "CST121 Use of Library & Information II", "credits": 2 },
+                  { "courseName": "GST121 Communication in English II", "credits": 2 },
+                  { "courseName": "GST122 Communication in French II", "credits": 2 },
+                  { "courseName": "EDS121 Entreprenuerial & Development Studies", "credits": 1 },
+                  { "courseName": "TMC121 Total Man Concept", "credits": 1 },
+                  { "courseName": "TMC122 TMC Sports", "credits": 0 }
+                ],
+                "electives": [],
+                "elective_number": 0
+                
+              }
+            ]
+          },
+          {
+            "year": "200 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "BFN211 Business Finance I", "credits": 2 },
+                  { "courseName": "BUS211 Principles of Management I", "credits": 2 },
+                  { "courseName": "CIT211 Java Foundations Certified Junior Associate", "credits": 0 },
+                  { "courseName": "CSC211 Computer Programming I ", "credits": 3 },
+                  { "courseName": "CSC213 Structured Programming", "credits": 3 },
+                  { "courseName": "CSC214 High Performance Computing & DB Management I", "credits": 3 },
+                  { "courseName": "GST211 Logic, Philosophy and Human Existence", "credits": 2 },
+                  { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                  { "courseName": "EDS211 Entrepreneurial Development Studies III", "credits": 1 },
+                  { "courseName": "TMC211 Total Man Concept III", "credits": 1 },
+                  { "courseName": "TMC212 TMC Sports", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "CBS111 Mathematics for Business & Social Sciences I", "credits": 3 },
+                  { "courseName": "MAT214 Linear Algebra I", "credits": 2 }
+                ],
+
+                "elective_number":1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "BUS221 Principles of Management II", "credits": 2 },
+                  { "courseName": "CSC221 Computer Programming II", "credits": 3 },
+                  { "courseName": "CSC225 Operating Systems", "credits": 3 },
+                  { "courseName": "CSC226 Statistical Methods ", "credits": 2 },
+                  { "courseName": "MIS221 Management Information Systems", "credits": 3 },
+                  { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
+                  { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
+                  { "courseName": "CIT221 Oracle Database: SQL Fundamentals", "credits": 0 },
+                  { "courseName": "CIT224 SAP TERP10 - Integration of Business Processes II", "credits": 0 },
+                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
+                  { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
+                  { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
+                  { "courseName": "TMC222 TMC Sports", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "CBS121 Statistics for Business and Social Sciences II", "credits": 3 }
+                ],
+                "elective_number":1
+              }
+            ]
+          },
+          {
+            "year": "300 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "BFN311 Business Finance II", "credits": 3 },
+                  { "courseName": "BUS313 Commercial Law", "credits": 3 },
+                  { "courseName": "CSC310 Internet Programming", "credits": 3 },
+                  { "courseName": "CSC312 Fundamentals of Data Structure ", "credits": 3 },
+                  { "courseName": "CSC313 Object-Oriented Programming", "credits": 2 },
+                  { "courseName": "CSC317 System Analysis and Design", "credits": 2 },
+                  { "courseName": "MIS316 Research Methods", "credits": 2 },
+                  { "courseName": "CIT310 Cyber Security Specialist – App Sec", "credits": 0 },
+                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2 },
+                  { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
+                  { "courseName": "TMC311 Total Man Concept V", "credits": 1 },
+                  { "courseName": "TMC312 TMC – Sports", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "CBS211 Mathematics for Business & Social Sciences II ", "credits": 3 },
+                  { "courseName": "CIS319 Statistical Computing", "credits": 2 },
+                  { "courseName": "CSC319 Operations Research", "credits": 2 },
+                  { "courseName": "MKT211 Principles of Marketing", "credits": 3 }
+                ],   
+                "elective_number": 1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "MIS329 (SIWES)", "credits": 6 }
+                ],
+                "electives":[],
+                "elective_number": 0
+          }
+        ]
+      },
+          {
+            "year": "400 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC411 Software Engineering", "credits": 3 },
+                  { "courseName": "CSC415 Artificial Intelligence", "credits": 3 },
+                  { "courseName": "MIS412 Knowledge Management", "credits": 2 },
+                  { "courseName": "MIS415 Project Management", "credits": 2 },
+                  { "courseName": "MIS418 E-Commerce Technology", "credits": 3 },
+                  { "courseName": "DLD211 Leadership and Developmental Studies", "credits": 0 },
+                  { "courseName": "EDS411 Entrepreneurial Dev. Studies VII", "credits": 1 },
+                  { "courseName": "TMC411 Total Man Concept VII", "credits": 1 },
+                  { "courseName": "TMC412 TMC – Sports", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "MIS413 System Accounting", "credits": 2 },
+                  { "courseName": "MIS414 Finance and Information Management", "credits": 2 }
+                ],
+                "elective_number":1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses":[
+                  { "courseName": "MIS421 Decision Support System", "credits": 3 },
+                  { "courseName": "MIS422 Production and Operations Management", "credits": 2 },
+                  { "courseName": "CSC424 Computer Networks/Communication", "credits": 3 },
+                  { "courseName": "MIS423 Management Theory", "credits": 3 },
+                  { "courseName": "MIS429 Project", "credits": 6 },
+                  { "courseName": "DLD221 Leadership Dynamics", "credits": 0 },
+                  { "courseName": "EDS421 Entrepreneurial Dev. Studies VIII", "credits": 1 },
+                  { "courseName": "TMC421 Total Man Concept VIII", "credits": 1 },
+                  { "courseName": "TMC422 TMC – Sports", "credits": 0 }
+
+                ],
+                "electives":[
+                  { "courseName": "BUS326 International Business and World Resources", "credits": 3 },
+                  { "courseName": "CBS221 Statistics of Business and Social Sciences II", "credits": 3 },
+                  { "courseName": "CSC444 Computer System Performance Evaluation", "credits": 2 },
+                  { "courseName": "MIS425 System Security Management", "credits": 2 },
+                  { "courseName": "MIS426 Supply Chain and Logistics Management", "credits": 2 }
+                ],
+                "elective_number":1
+              }
+            ]
+          }
+        ]
+
+      }
+    ]
+  }
+]
