@@ -1,4 +1,5 @@
 import React from 'react';
+import calcimg from '../assets/images/Calc.png'
 import { NavLink } from 'react-router-dom';
 
 const Mainbar = () => {
@@ -11,6 +12,7 @@ const Mainbar = () => {
           <div
             className="flex flex-1 items-center justify-center md:items-stretch md:justify-start"
           >
+              <img className = "h-10 w-auto" src = {calcimg} alt = "CGPA Tracker"/>
               <span className="hidden md:block text-white text-2xl font-bold ml-2"
                 >CGPA Tracker</span
               >

@@ -201,6 +201,197 @@
       },
 
       {
+        "program": "Ind. Math(Comp. Science)",
+        "years": [
+          {
+            "year": "100 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CHM111 General Physical Chemistry", "credits": 3 },
+                  { "courseName": "CSC111 Introduction to Computer Science", "credits": 3 },
+                  { "courseName": "MAT111 Algebra", "credits": 3 },
+                  { "courseName": "MAT112 Trigonometry and Geometry", "credits": 2 },
+                  { "courseName": "MAT114 Statistics 1", "credits": 2 },
+                  { "courseName": "PHY111 Mechanics & Properties of Matter", "credits": 2 },
+                  { "courseName": "PHY112 Heat,Sound and Optics", "credits": 2 },
+                  { "courseName": "PHY119 Physics Practical 1", "credits": 0 },
+                  { "courseName": "CST111 use of Library and Information", "credits": 2 },
+                  { "courseName": "GST111 Communication in English", "credits": 2 },
+                  { "courseName": "CIT111 Office Specialist", "credits": 0 },
+                  { "courseName": "EDS111 Entreprenuerial & Development Studies ", "credits": 1 },
+                  { "courseName": "TMC111 Total Man Concept", "credits": 2 },
+                  { "courseName": "TMC112 TMC Sports", "credits": 0 }
+                ],
+                "electives": [],
+
+                "elective_number": 0
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "BIO121 General Biology II", "credits": 2 },
+                  { "courseName": "BIO127 General Biology Lab II", "credits": 1 },
+                  { "courseName": "CIT121 Excel Specialist", "credits": 0 },
+                  { "courseName": "CSC121 Introduction to Problem Solving", "credits": 2 },
+                  { "courseName": "MAT121 Calculus", "credits": 3 },
+                  { "courseName": "MAT122 Vector Analysis", "credits": 2 },
+                  { "courseName": "MAT123 Statistics II", "credits": 2 },
+                  { "courseName": "MAT126 Use of Mathematical Package", "credits": 0 },
+                  { "courseName": "PHY121 Electricity and Magnetism I", "credits": 2 },
+                  { "courseName": "PHY129 Physics Practical II", "credits": 1 },
+                  { "courseName": "CST121 Use of Library & Information II", "credits": 2 },
+                  { "courseName": "GST121 Communication in English II", "credits": 2 },
+                  { "courseName": "GST122 Communication in French II", "credits": 2 },
+                  { "courseName": "EDS121 Entreprenuerial & Development Studies", "credits": 1 },
+                  { "courseName": "TMC121 Total Man Concept", "credits": 1 },
+                  { "courseName": "TMC122 TMC Sports", "credits": 0 }
+                ],
+                "electives": [],
+                "elective_number": 0
+                
+              }
+            ]
+          },
+          {
+            "year": "200 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC211 Computer Programming I ", "credits": 3 },
+                  { "courseName": "MAT210 Sets Logic and Algebra", "credits": 2 },
+                  { "courseName": "MAT211 Real Analysis I", "credits": 3 },
+                  { "courseName": "MAT212 Mathematical Methods I", "credits": 3 },
+                  { "courseName": "MAT213 Differential Equations I", "credits": 3 },
+                  { "courseName": "MAT214 Linear Algebra I", "credits": 2 },
+                  { "courseName": "GST211 Logic, Philosophy and Human Existence", "credits": 2 },
+                  { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                  { "courseName": "EDS211 Entrepreneurial Development Studies III", "credits": 1 },
+                  { "courseName": "TMC211 Total Man Concept III", "credits": 1 },
+                  { "courseName": "TMC212 TMC Sports", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "CSC213 Structured Programming", "credits": 3 },
+                  { "courseName": "CSC216 Foundations of Sequential and Parallel Programming", "credits": 3 }
+                ],
+
+                "elective_number":1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "CSC221 Computer Programming II", "credits": 3 },
+                  { "courseName": "MAT221 Real Analysis II", "credits": 3 },
+                  { "courseName": "MAT222 Differential Equations II", "credits": 3 },
+                  { "courseName": "MAT223 Use of Mathematical Package", "credits": 0 },
+                  { "courseName": "MAT224 Introduction to Numerical Analysis", "credits": 3 },
+                  { "courseName": "MAT229 Linear Algebra II", "credits": 2 },
+                  { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
+                  { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
+                  { "courseName": "CIT224 SAP TERP10 - Integration of Business Processes II", "credits": 0 },
+                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
+                  { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
+                  { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
+                  { "courseName": "TMC222 TMC Sports", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "CSC223 Computer Hardware", "credits": 3 },
+                  { "courseName": "CSC225 Operating Systems", "credits": 3 },
+                  { "courseName": "MAT225 Abstract Algebra", "credits": 3 }
+                ],
+                "elective_number":1
+              }
+            ]
+          },
+          {
+            "year": "300 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC313 Object-Oriented Programming", "credits": 2 },
+                  { "courseName": "CSC314 Theory of Computing", "credits": 2 },
+                  { "courseName": "MAT312 Numerical Analysis I", "credits": 2 },
+                  { "courseName": "MAT317 Mathematical Methods III", "credits": 3 },
+                  { "courseName": "MAT319 Mathematical Modelling I", "credits": 3 },
+                  { "courseName": "MAT333 Introduction to Industrial Mathematics", "credits": 2 },
+                  { "courseName": "MAT335 Mathematical Computing", "credits": 2 },
+                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2 },
+                  { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
+                  { "courseName": "TMC311 Total Man Concept V", "credits": 1 },
+                  { "courseName": "TMC312 TMC – Sports", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "MAT314 Introduction to Operations Research", "credits": 2 },
+                  { "courseName": "MAT317 Probability Distributions", "credits": 2 },
+                  { "courseName": "MAT318 Statistical Inference", "credits": 2 }
+                ],   
+                "elective_number": 1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "MAT329 (SIWES)", "credits": 6 }
+                ],
+                "electives":[],
+                "elective_number": 0
+          }
+        ]
+      },
+          {
+            "year": "400 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "CSC413 Algorithms and Complexity Analysis", "credits": 3 },
+                  { "courseName": "CSC415 Artificial Intelligence", "credits": 3 },
+                  { "courseName": "MAT412 Differential Equations II", "credits": 3 },
+                  { "courseName": "MAT414 Numerical Analysis II", "credits": 3 },
+                  { "courseName": "MAT434 Classical Mechanics I", "credits": 3 },
+                  { "courseName": "DLD211 Leadership and Developmental Studies", "credits": 0 },
+                  { "courseName": "EDS411 Entrepreneurial Dev. Studies VII", "credits": 1 },
+                  { "courseName": "TMC411 Total Man Concept VII", "credits": 1 },
+                  { "courseName": "TMC412 TMC – Sports", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "MAT411 Topology", "credits": 3 },
+                  { "courseName": "MAT413 Probability Theory and Stochastic Process", "credits": 3 },
+                  { "courseName": "MAT417 Functional Analysis", "credits": 3 }
+                ],
+                "elective_number":2
+              },
+              {
+                "semester": "Omega Semester",
+                "courses":[
+                  { "courseName": "CIS421 Computer Security", "credits": 2 },
+                  { "courseName": "CSC423 Organization of Programming Languages", "credits": 3 },
+                  { "courseName": "MAT421 Optimization Theory", "credits": 3 },
+                  { "courseName": "MAT422 Differential Equations III", "credits": 3 },
+                  { "courseName": "MAT429 Research Project", "credits": 6 },
+                  { "courseName": "DLD221 Leadership Dynamics", "credits": 0 },
+                  { "courseName": "EDS421 Entrepreneurial Dev. Studies VIII", "credits": 1 },
+                  { "courseName": "TMC421 Total Man Concept VIII", "credits": 1 },
+                  { "courseName": "TMC422 TMC – Sports", "credits": 0 },
+                  { "courseName": "TTG222 Leadership Dynamics", "credits": 0 }
+
+                ],
+                "electives":[
+                  { "courseName": "MAT424 Survey Methodology & Quality Control", "credits": 3 },
+                  { "courseName": "MAT428 Classical Mechanics II", "credits": 3 },
+                  { "courseName": "MAT440 Control Theory and Project Management", "credits": 3 }
+                ],
+                "elective_number":1
+              }
+            ]
+          }
+        ]
+
+      },
+
+      {
         "program": "Management Information Systems",
         "years": [
           {

@@ -8,7 +8,6 @@ const CalculationPage = () => {
   return (
     <>
     <Hero />
-    <Card />
     <Placeholder /> 
     </>
   )
