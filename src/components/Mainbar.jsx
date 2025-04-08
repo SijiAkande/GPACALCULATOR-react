@@ -14,7 +14,7 @@ const Mainbar = () => {
           >
               <img className = "h-10 w-auto" src = {calcimg} alt = "CGPA Tracker"/>
               <span className="hidden md:block text-white text-2xl font-bold ml-2"
-                >CGPA Tracker</span
+                >CGPA Tracker enabled </span
               >
             <div className="md:ml-auto">
               <div className="flex space-x-2">
