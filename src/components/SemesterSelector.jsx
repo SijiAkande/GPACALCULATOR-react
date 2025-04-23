@@ -6,14 +6,12 @@ const SemesterSelector = ({ selectedYear, handleSemesterChange }) => {
       <label className = "text-1xl text-white flex flex-col">
         Select Semester:
         <select onChange={handleSemesterChange} className = "group relative border border-gray-300 bg-white text-gray-500 text-lg px-3 py-1 rounded">
-          <div className = "absolute top-full right-0 rounded-lg p-3 mt-1 shadow-md scale-y-0 group-focus:scale-y-100 origin-top duration-200">
           <option className = "active">Select a semester</option>
           {selectedYear?.semesters.map(s => (
             <option key={s.semester} value={s.semester}>
               {s.semester}
             </option>
           ))}
-          </div>
         </select>
       </label>
     </div>
