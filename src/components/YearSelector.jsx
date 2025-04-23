@@ -6,14 +6,12 @@ const YearSelector = ({ selectedProgram, handleYearChange }) => {
       <label className = "text-1xl text-white flex flex-col ">
         Select Year:
         <select onChange={handleYearChange} className = "group relative border border-gray-300 bg-white text-gray-500 text-lg px-3 py-1 rounded">
-          <div className = "absolute top-full right-0 rounded-lg p-3 mt-1 shadow-md scale-y-0 group-focus:scale-y-100 origin-top duration-200">
           <option>Select a year</option>
           {selectedProgram?.years.map(y => (
             <option key={y.year} value={y.year}>
               {y.year}
             </option>
           ))}
-          </div>
         </select>
       </label>
     </div>
