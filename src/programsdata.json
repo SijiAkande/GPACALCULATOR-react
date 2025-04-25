@@ -205,7 +205,7 @@
     "college": "CST",
     "programs": [
       {
-        "program": "Computer Science",
+        "program": "Economics",
         "years": [
           {
             "year": "100 Level",
@@ -213,23 +213,18 @@
               {
                 "semester": "Alpha Semester",
                 "courses": [
-                  { "courseName": "BIO111 General Biology I", "credits": 3 },
-                  { "courseName": "CHM111 General Physical Chemistry", "credits": 3 },
-                  { "courseName": "CHM119 General Chemistry Practical I", "credits": 1 },
-                  { "courseName": "CIT111 Microsoft Office Word Specialist", "credits": 0 },
-                  { "courseName": "CSC111 Introduction to Computer Science", "credits": 3 },
-                  { "courseName": "MAT111 Algebra", "credits": 3 },
-                  { "courseName": "MAT112 Trigonometry and Analytical Geometry", "credits": 2 },
-                  { "courseName": "PHY111 Mechanics and Properties of Matter", "credits": 2 },
-                  { "courseName": "PHY119 Physics Practical I", "credits": 1 },
-                  { "courseName": "CST111 Use of Library, Study Skills and Information Communication Technology I", "credits": 2 },
-                  { "courseName": "GST111 Communication in English I", "credits": 2 },
+                  { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
+                  { "courseName": "BUS111 Introduction to Business I", "credits": 2 },
+                  { "courseName": "CIT111 MS Office Specialist WORD", "credits": 0 },
+                  { "courseName": "ECN111 Introduction to Economics", "credits": 3 },
+                  { "courseName": "CST111 Use of Library and Information Technology", "credits": 2 },
+                  { "courseName": "GST111 Communication in English", "credits": 2 },
                   { "courseName": "EDS111 Entrepreneurial Development Studies I", "credits": 1 },
                   { "courseName": "TMC111 Total Man Concept I", "credits": 1 },
-                  { "courseName": "TMC112 Total Man Concept - Sports I", "credits": 0 }
+                  { "courseName": "TMC112 TMC Sports II", "credits": 0 }
                 ],
                 "electives": [
-                    { "courseName": "TMC112 Total Man Concept - Sports I", "credits": 2 }
+                    { "courseName": "MUS312 Introduction to Mechatronics", "credits": 3 }
                 ],
 
                 "elective_number": 1
