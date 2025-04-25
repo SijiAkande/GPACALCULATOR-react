@@ -225,7 +225,9 @@
                   { "courseName": "TMC112 TMC Sports II", "credits": 0 }
                 ],
                 "electives": [
-                    { "courseName": "MUS111 Introduction to Banking & Finance III", "credits": 2 }
+                    { "courseName": "BFN111 Introduction to Banking & Finance III", "credits": 2 },
+                    { "courseName": "PSY111 Introduction to Psychology", "credits": 2 },
+                    { "courseName": "SOC111 Introduction to Sociology I", "credits": 2 }
                 ],
 
                 "elective_number": 1
