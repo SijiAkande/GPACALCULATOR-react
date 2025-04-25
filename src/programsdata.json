@@ -11,24 +11,27 @@
           {
             "semester": "Alpha Semester",
             "courses": [
-                { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
-                { "courseName": "BUS111 Introduction to Business I", "credits": 2 },
-                { "courseName": "CIT111 Microsoft Office Specialist (WORD)", "credits": 0 },
-                { "courseName": "ECN111 Introduction to Economics I", "credits": 3 },
-                { "courseName": "CBS111 Mathematics for Business & Social Sciences I", "credits": 3 },
-                { "courseName": "CST111 Use of Library & ICT I", "credits": 2 },
-                { "courseName": "GST111 Communication in English I", "credits": 2 },
-                { "courseName": "EDS111 Entrepreneurial Dev. Studies I", "credits": 1 },
-                { "courseName": "TMC111 Total Man Concept I", "credits": 1 },
-                { "courseName": "TMC112 TMC - Sports I", "credits": 0 }
+                { "courseName": "CHM111 General Physical Chemistry", "credits": 3 },
+                { "courseName": "CSC111 Introduction to Computer Science", "credits": 3 },
+                { "courseName": "MAT111 Algebra", "credits": 3 },
+                { "courseName": "MAT112 Trigonometry and Geometry", "credits": 2 },
+                { "courseName": "MAT114 Statistics 1", "credits": 2 },
+                { "courseName": "PHY111 Mechanics & Properties of Matter", "credits": 2 },
+                { "courseName": "PHY112 Heat,Sound and Optics", "credits": 2 },
+                { "courseName": "PHY119 Physics Practical 1", "credits": 0 },
+                { "courseName": "CST111 use of Library and Information", "credits": 2 },
+                { "courseName": "GST111 Communication in English", "credits": 2 },
+                { "courseName": "CIT111 Office Specialist", "credits": 0 },
+                { "courseName": "EDS111 Entreprenuerial & Development Studies ", "credits": 1 },
+                { "courseName": "TMC111 Total Man Concept", "credits": 2 },
+                { "courseName": "TMC112 TMC Sports", "credits": 0 }
             ],
             "electives": [
-                { "courseName": "BFN111 Introduction to Banking & Finance I", "credits": 2 },
-                { "courseName": "PSY111 Introduction to Psychology", "credits": 2 },
-                { "courseName": "SOC111 Introduction to Sociology I", "credits": 2 }
+                { "courseName": "CSC213 Structured Programming", "credits": 3 },
+                { "courseName": "CSC216 Foundations of Sequential and Parallel Programming", "credits": 3 }
             ],
 
-            "elective_number": 1
+            "elective_number":1
           },
           {
             "semester": "Omega Semester",
