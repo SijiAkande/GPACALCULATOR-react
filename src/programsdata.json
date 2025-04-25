@@ -1,5 +1,218 @@
 [
   {
+    "college": "CMSS",
+    "programs": [
+      {
+        "program": "Economics",
+        "years" : [
+          {
+            "year": "100 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "ACC111 – Principles of Accounting I", "credits": 2 },
+                  { "courseName": "BUS111 – Introduction to Business I", "credits": 2 },
+                  { "courseName": "CIT111 – Microsoft Office Specialist (WORD)", "credits": 0 },
+                  { "courseName": "ECN111 – Introduction to Economics I", "credits": 3 },
+                  { "courseName": "CBS111 – Mathematics for Business & Social Sciences I", "credits": 3 },
+                  { "courseName": "CST111 – Use of Library & ICT I", "credits": 2 },
+                  { "courseName": "GST111 – Communication in English I", "credits": 2 },
+                  { "courseName": "EDS111 – Entrepreneurial Dev. Studies I", "credits": 1 },
+                  { "courseName": "TMC111 – Total Man Concept I", "credits": 1 },
+                  { "courseName": "TMC112 – TMC - Sports I", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "BFN111 – Introduction to Banking & Finance I", "credits": 2 },
+                  { "courseName": "PSY111 – Introduction to Psychology", "credits": 2 },
+                  { "courseName": "SOC111 – Introduction to Sociology I", "credits": 2 }
+                ],
+
+                "elective_number": 1
+
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "ACC121 – Principles of Accounting II ", "credits": 2 },
+                  { "courseName": "BUS121 – Introduction to Business II", "credits": 2 },
+                  { "courseName": "BUS124 – Business Communication", "credits": 2 },
+                  { "courseName": "CIT121 – Microsoft Office Specialist (EXCEL)", "credits": 0 },
+                  { "courseName": "ECN121 – Introduction to Economics II", "credits": 3 },
+                  { "courseName": "CBS121 – Statistics for Business & Social Sciences I ", "credits": 3 },
+                  { "courseName": "CST121 – Use of Library & ICT II", "credits": 2 },
+                  { "courseName": "GST121 – Communication in English II", "credits": 2 },
+                  { "courseName": "GST122 – Communication in French", "credits": 2 },
+                  { "courseName": "EDS121 – Entrepreneurial Dev. Studies II ", "credits": 1 },
+                  { "courseName": "TMC121 – TMC II ", "credits": 1 },
+                  { "courseName": "TMC122 – TMC - Sports II ", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "BFN121 – Introduction to Banking & Finance II", "credits": 2 },
+                  { "courseName": "SOC121 – Introduction to Sociology II", "credits": 2 }
+                ],
+                "elective_number": 1
+              }
+            ]
+          },
+          {
+            "year": "200 Level",
+            "semesters": [
+              {
+                "semester": "Alpha Semester",
+                "courses": [
+                  { "courseName": "BFN211 – Business Finance I", "credits": 2 },
+                  { "courseName": "ECN211 – Principles of Economics I", "credits": 2 },
+                  { "courseName": "ECN212 – Principles of Economics II (Macro)", "credits": 2 },
+                  { "courseName": "ECN213 – History of Nigerian Economy I ", "credits": 2 },
+                  { "courseName": "ECN214 – Introduction to Development Economics I ", "credits": 2 },
+                  { "courseName": "ECN215 – Mathematics for Economics I", "credits": 3 },
+                  { "courseName": "CBS211 – Mathematics for Business & Social Sciences II", "credits":3 },
+                  { "courseName": "GST211 – Logic, Philosophy & Human Existence", "credits":2 },
+                  { "courseName": "CIT214 – SAP TERP10 – Integration of Business Processes I", "credits":0 },
+                  { "courseName": "EDS211 – Entrepreneurial Dev. Studies III ", "credits":1 },
+                  { "courseName": "TMC211 – TMC III ", "credits":1 },
+                  { "courseName": "TMC212 – TMC - Sports III", "credits":0 }
+                ],
+                "electives": [
+                  { "courseName": "ACC211 – Intro to Financial Accounting I ", "credits": 2 },
+                  { "courseName": "ECN216 – Labour Economics I ", "credits": 2 }
+                ],
+
+                "elective_number": 1
+              },
+              {
+                "semester": "Omega Semester",
+                "courses": [
+                  { "courseName": "ECN221 Principles of Economics III (Micro)", "credits": 2 },
+                  { "courseName": "ECN222 Principles of Economics IV (Macro)", "credits": 2 },
+                  { "courseName": "ECN223 History and Structure of the Nigerian Economy II", "credits": 2 },
+                  { "courseName": "ECN224 Introduction to Development Economics II", "credits": 2 },
+                  { "courseName": "ECN225 Mathematics for Economists II", "credits": 3 },
+                  { "courseName": "CBS221 Statistics for Business and Social Sciences II", "credits": 3 },
+                  { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
+                  { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
+                  { "courseName": "CIT224 SAP TERP10- Integration of Business Processes II", "credits": 0 },
+                  { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
+                  { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
+                  { "courseName": "TMC222 Total Man Concept - Sports IV", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "ACC221 Introduction to Financial Accounting II", "credits": 2 },
+                  { "courseName": "ECN226 Labour Economics II", "credits": 2 }
+                ],
+
+                "elective_number": 1
+              }
+            ]
+          },
+          {
+            "year": "300 Level",
+            "semesters":[
+              {
+                "semester":"Alpha Semester",
+                "courses":[
+                  { "courseName": "ECN311 Intermediate Micro-Economic Theory I", "credits": 2 },
+                  { "courseName": "ECN312 Intermediate Macro-Economic Theory I", "credits": 2 },
+                  { "courseName": "ECN313 Theories of Growth and Development I", "credits": 2 },
+                  { "courseName": "ECN314 History of Economic Thoughts", "credits": 2 },
+                  { "courseName": "ECN315 Public Sector Economics and Policy I", "credits": 2 },
+                  { "courseName": "ECN316 International Economics I", "credits": 2 },
+                  { "courseName": "ECN317 Project Evaluation", "credits": 2 },
+                  { "courseName": "ECN318 Introductory Econometric I", "credits": 2 },
+                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2 },
+                  { "courseName": "CIT312 Data Mining and SPSS Modeller I", "credits": 0 },
+                  { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                  { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
+                  { "courseName": "TMC311 Total Man Concept V", "credits": 1 },
+                  { "courseName": "TMC312 Total Man Concept –Sports V", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "ECN319 Operations Research I", "credits": 2 },
+                  { "courseName": "ECN331 Monetary Economics", "credits": 2 },
+                  { "courseName": "ECN332 Economic History", "credits": 2 },
+                  { "courseName": "ECN333 Political Economy", "credits": 2 }
+                ],
+                "elective_number": 1
+              },
+              {
+                "semester":"Omega Semester",
+                "courses":[
+                  { "courseName": "ECN321 Intermediate Micro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN322 Intermediate Macro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN323 Theories of Growth and Development II", "credits": 2 },
+                  { "courseName": "ECN324 History of Economic Thoughts II", "credits": 2 },
+                  { "courseName": "ECN325 Public Sector Economics and Policy II", "credits": 2 },
+                  { "courseName": "ECN326 International Economics II", "credits": 2 },
+                  { "courseName": "ECN327 Research Methodology in Economics", "credits": 3 },
+                  { "courseName": "ECN328 Introductory Econometrics II", "credits": 2 },
+                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
+                  { "courseName": "EDS321 Entrepreneurial Development Studies VI", "credits": 1 },
+                  { "courseName": "TMC321 Total Man Concept VI", "credits": 1 },
+                  { "courseName": "TMC322 Total Man Concept - Sports VI", "credits": 0 }
+                ],
+                "electives": [
+                  { "courseName": "ECN329 Operations Research II", "credits": 2 },
+                  { "courseName": "ECN341 Financial Institutions", "credits": 2 },
+                  { "courseName": "ECN342 Industrial Economics", "credits": 2 }
+                ],
+                "elective_number": 1
+              }
+            ]
+          },
+          {
+            "year": "400 Level",
+            "semesters": [
+              {
+                "semester":"Alpha Semester",
+                "courses": [
+                  { "courseName": "ECN411 Advanced Micro-Economics Theory I", "credits": 2 },
+                  { "courseName": "ECN412 Advanced Macro-Economic Theory I", "credits": 2 },
+                  { "courseName": "ECN413 Problems and Policies in Development Economics", "credits": 2 },
+                  { "courseName": "ECN414 Comparative Economic System", "credits": 2 },
+                  { "courseName": "ECN415 Taxation and Fiscal Policy", "credits": 2 },
+                  { "courseName": "ECN416 Applied Statistics", "credits": 2 },
+                  { "courseName": "DLD211 Leadership and Developmental Studies", "credits": 0 },
+                  { "courseName": "EDS411 Entrepreneurial Development Studies VII", "credits": 1 },
+                  { "courseName": "TMC411 Total Man Concept VII", "credits": 1 },
+                  { "courseName": "TMC412 Total Man Concept –Sports VII", "credits": 0 }   
+                ],
+                "electives":[
+                  { "courseName": "BFN411 Financial Management", "credits": 3 },
+                  { "courseName": "ECN417 Health Economics I", "credits": 2 },
+                  { "courseName": "ECN419 Managerial Economics I", "credits": 2 }
+                ],
+                "elective_number": 1
+              },
+              {
+                "semester":"Omega Semester",
+                "courses":[
+                  { "courseName": "ECN421 Advanced Micro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN422 Advanced Macro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN423 Economic Planning", "credits": 2 },
+                  { "courseName": "ECN424 Economics of Production", "credits": 2 },
+                  { "courseName": "ECN425 Research Project", "credits": 6 },
+                  { "courseName": "DLD221 Leadership Dynamics", "credits": 0 },
+                  { "courseName": "EDS421 Entrepreneurial Development Studies VIII", "credits": 1 },
+                  { "courseName": "TMC421 Total Man Concept VIII", "credits": 1 },
+                  { "courseName": "TMC422 Total Man Concept - Sports VIII", "credits": 0 },
+                  { "courseName": "TTG222 Leadership Dynamics", "credits": 0 }
+                ],
+                "electives":[
+                  { "courseName": "ECN426 Advanced Monetary Theory, Policy and Financial Institutions", "credits": 2 },
+                  { "courseName": "ECN427 Health Economics II", "credits": 2 },
+                  { "courseName": "ECN428 Petroleum Economics II", "credits": 2 },
+                  { "courseName": "ECN429 Managerial Economics II", "credits": 2 }
+                ],
+                "elective_number": 1
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
     "college": "CST",
     "programs": [
       {
