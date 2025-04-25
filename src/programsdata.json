@@ -216,6 +216,7 @@
                   { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
                   { "courseName": "BUS111 Introduction to Business I", "credits": 2 },
                   { "courseName": "CIT111 MS Office Specialist WORD", "credits": 0 },
+                  { "courseName": "CBS111 Mathematics for Business & Social Sciences I", "credits": 3},
                   { "courseName": "ECN111 Introduction to Economics", "credits": 3 },
                   { "courseName": "CST111 Use of Library and Information Technology", "credits": 2 },
                   { "courseName": "GST111 Communication in English", "credits": 2 },
@@ -224,7 +225,9 @@
                   { "courseName": "TMC112 TMC Sports II", "credits": 0 }
                 ],
                 "electives": [
-                    { "courseName": "MUS312 Introduction to Mechatronics", "credits": 3 }
+                    { "courseName": "BFN111 Introduction to Banking & Finance I", "credits": 3 },
+                    { "courseName": "Introduction to Psychology", "credits": 2 },
+                    { "courseName": "Introduction to Sociology I", "credits": 2}
                 ],
 
                 "elective_number": 1
@@ -232,24 +235,24 @@
               {
                 "semester": "Omega Semester",
                 "courses": [
+                  { "courseName": "ACC121 Principles of Accounting II", "credits": 2 },
+                  { "courseName": "BUS121 Introduction to Business II", "credits": 2 },
+                  { "courseName": "BUS124 Business Communication", "credits": 2 },
                   { "courseName": "CIT121 Microsoft Office Specialist Excel", "credits": 0 },
-                  { "courseName": "CIT141 COMPTIA II", "credits": 0 },
-                  { "courseName": "CSC121 Introduction to Problem Solving", "credits": 2 },
-                  { "courseName": "CSC125 Operating System I", "credits": 2 },
-                  { "courseName": "MAT121 Calculus", "credits": 3 },
-                  { "courseName": "MAT122 Introduction to Vector Analysis", "credits": 2 },
-                  { "courseName": "PHY121 Electricity and Magnetism I", "credits": 3 },
-                  { "courseName": "PHY122 Atomic and Nuclear Physics", "credits": 2 },
-                  { "courseName": "PHY129 Physics Practical II", "credits": 1 },
-                  { "courseName": "CST121 Use of Library, Study Skills and Information Communication Technology II", "credits": 2 },
+                  { "courseName": "ECN121 Introduction to Economics II", "credits": 3 },
+                  { "courseName": "CBS121 Statistics for Business and Social Sciences I", "credits": 3 },
+                  { "courseName": "CST121 Use of Library & Information II", "credits": 2 },
                   { "courseName": "GST121 Communication in English II", "credits": 2 },
-                  { "courseName": "GST122 Communication in French", "credits": 2 },
+                  { "courseName": "GST122 Communication in French","credits": 2},
                   { "courseName": "EDS121 Entrepreneurial Development Studies II", "credits": 1 },
                   { "courseName": "TMC121 Introduction to the Total Man Concept II", "credits": 1 },
-                  { "courseName": "TMC122 Total Man Concept - Sports II", "credits": 0 }
+                  { "courseName": "TMC122 Total Man Concept - Sports II", "credits": 1 }
                 ],
-                "electives": [],
-                "elective_number": 0
+                "electives": [
+                  { "courseName": "BFN121 Introduction to Banking and Finance II", "credits": 2},
+                  { "courseName": "SOC121 Introduction to Sociology II", "credits": 2}
+                ],
+                "elective_number": 1
                 
               }
             ]
@@ -260,25 +263,22 @@
               {
                 "semester": "Alpha Semester",
                 "courses": [
-                  { "courseName": "CIT211 Java Foundations Certified Junior Associate", "credits": 0 },
-                  { "courseName": "CSC211 Computer Programming I", "credits": 3 },
-                  { "courseName": "CSC213 Structured Programming", "credits": 3 },
-                  { "courseName": "CSC214 High Performance Computing & Database Management I", "credits": 3 },
-                  { "courseName": "CSC216 Foundations of Sequential and Parallel Programming", "credits": 3 },
-                  { "courseName": "MAT212 Mathematical Methods I", "credits": 3 },
-                  { "courseName": "PHY232 Electric Circuit and Electronics", "credits": 3 },
+                  { "courseName": "BUS211 Business Finance I", "credits": 2 },
+                  { "courseName": "ECN211 Principles of Economics I(Micro)", "credits": 2 },
+                  { "courseName": "ECN212 Principles of Economics II(Macro)", "credits": 2 },
+                  { "courseName": "ECN213 History and Structure of the Nigerian Economy I", "credits": 2 },
+                  { "courseName": "ECN214 Introduction to Development Economics I", "credits": 2 },
+                  { "courseName": "ECN215 Mathematics for Economics I", "credits": 3 },
+                  { "courseName": "CBS211 Mathematics for Business & Social Sciences II ", "credits": 3 },
                   { "courseName": "GST211 Logic, Philosophy and Human Existence", "credits": 2 },
-                  { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                  { "courseName": "CIT214 SAP-TERP10-Integration of Business Processes I", "credits": 0},
                   { "courseName": "EDS211 Entrepreneurial Development Studies III", "credits": 1 },
                   { "courseName": "TMC211 Total Man Concept III", "credits": 1 },
                   { "courseName": "TMC212 Total Man Concept –Sports III", "credits": 0 }
                 ],
                 "electives": [
-                  { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
-                  { "courseName": "ECN111 Introduction to Economics I", "credits": 3 },
-                  { "courseName": "MAT213 Differential Equations I", "credits": 3 },
-                  { "courseName": "MAT214 Linear Algebra I", "credits": 2 },
-                  { "courseName": "MAT215 Probability Distribution I", "credits": 3 }
+                  { "courseName": "ACC121 Principles of Accounting II", "credits": 2 },
+                  { "courseName": "ECN216 Labour Economics I", "credits": 2 }
                 ],
 
                 "elective_number":1
@@ -286,27 +286,24 @@
               {
                 "semester": "Omega Semester",
                 "courses": [
-                  { "courseName": "CSC221 Computer Programming II", "credits": 0 },
-                  { "courseName": "CSC223 Computer Hardware", "credits": 3 },
-                  { "courseName": "CSC224 Introduction to Computational Biology", "credits": 3 },
-                  { "courseName": "CSC225 Operating Systems", "credits": 2 },
-                  { "courseName": "CSC227 Computer Architecture and Organization I", "credits": 3 },
+                  { "courseName": "ECN221 Principles of Economics III (Micro)", "credits": 2 },
+                  { "courseName": "ECN222 Principles of Economics IV (Macro)", "credits": 2},
+                  { "courseName": "ECN223 History and Structure of the Nigerian Economy II", "credits": 2 },
+                  { "courseName": "ECN224 Introduction to Development Economics II", "credits": 2 },
+                  { "courseName": "ECN225 Mathematics for Economists II", "credits": 3 },
+                  { "courseName": "CBS221 Statistics for Businesses and Social Sciences II", "credits": 3 },
                   { "courseName": "GST221 Nigerian People and Culture", "credits": 2 },
                   { "courseName": "GST222 Peace and Conflict Studies", "credits": 2 },
-                  { "courseName": "CIT221 Oracle Database: SQL Fundamentals", "credits": 2 },
-                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
                   { "courseName": "EDS221 Entrepreneurial Development Studies IV", "credits": 1 },
+                  { "courseName": "CIT221 SAP-TERP10 II", "credits": 0 },
                   { "courseName": "TMC221 Total Man Concept IV", "credits": 1 },
                   { "courseName": "TMC222 Total Man Concept - Sports IV", "credits": 0 }
                 ],
                 "electives": [
-                  { "courseName": "CSC226 Statistical Methods", "credits": 2 },
-                  { "courseName": "MAT225 Abstract Algebra", "credits": 3 },
-                  { "courseName": "MAT226 Regression and Analysis of Variance", "credits": 3 },
-                  { "courseName": "MAT229 Linear Algebra II:", "credits": 2 },
-                  { "courseName": "MIS221 Introduction to Management Information System", "credits": 3 }
+                  { "courseName": "ACC221 Introduction to Financial Accounting II", "credits": 2 },
+                  { "courseName": "ECN226 Labour Economics II", "credits": 2 }
                 ],
-                "elective_number":2
+                "elective_number":1
               }
             ]
           },
@@ -316,32 +313,50 @@
               {
                 "semester": "Alpha Semester",
                 "courses": [
-                  { "courseName": "CSC310 Internet Programming", "credits": 3 },
-                  { "courseName": "CSC312 Fundamentals of Data Structures", "credits": 3 },
-                  { "courseName": "CSC313 Object-Oriented Programming", "credits": 3 },
-                  { "courseName": "CSC316 Research Methods", "credits": 2 },
-                  { "courseName": "CSC317 Systems Analysis and Design", "credits": 2 },
-                  { "courseName": "CSC318 Compiler Construction I", "credits": 3 },
-                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2 },
-                  { "courseName": "CIT310 Cyber Security Specialist - Application Security", "credits": 0 },
+                  { "courseName": "ECN311 Intermediate Micro-Economic Theory I", "credits": 2 },
+                  { "courseName": "ECN312 Intermediate Macro-Economic Theory I", "credits": 2 },
+                  { "courseName": "ECN313 Theories of Growth and Development I", "credits": 2 },
+                  { "courseName": "ECN314 History Of Economic Thoughts ", "credits": 2 },
+                  { "courseName": "ECN315 Public Sector Economics and Policy I", "credits": 2 },
+                  { "courseName": "ECN316 International Economics I", "credits": 2 },
+                  { "courseName": "ECN317 Project Evaluation", "credits": 2 },
+                  { "courseName": "Introductory Economatric I", "credits": 2 },
+                  { "courseName": "GST311 History and Philosophy of Science", "credits": 2},
+                  { "courseName": "DLD11 Foundations of Leadership Developemnt", "credits": 0},
                   { "courseName": "EDS311 Entrepreneurial Development Studies V", "credits": 1 },
                   { "courseName": "TMC311 Total Man Concept V", "credits": 1 },
                   { "courseName": "TMC312 Total Man Concept –Sports V", "credits": 0 }
                 ],
                 "electives":[
-                  { "courseName": "CIS319 Statistical Computing", "credits": 2 },
-                  { "courseName": "CSC314 Theory of Computing", "credits": 2 },
-                  { "courseName": "CSC319 Operations Research", "credits": 2 }
+                  { "courseName": "ECN319 Operations Research I", "credits": 2 },
+                  { "courseName": "ECN331 Monetary Economics", "credits": 2 },
+                  { "courseName": "ECN332 Economic History", "credits": 2 },
+                  { "courseName": "Political Economy", "credits": 2 }
                 ],   
-                "elective_number": 2
+                "elective_number": 1
               },
               {
                 "semester": "Omega Semester",
                 "courses": [
-                  { "courseName": "CSC329 (SIWES)", "credits": 6 }
+                  { "courseName": "ECN321 Intermediate Micro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN322 Intermediate Macro-Economic Theory II", "credits": 2 },
+                  { "courseName": "ECN323 Theories of Growth and Development II", "credits": 2 },
+                  { "courseName": "ECN324 History of Economic Thoughts II", "credits": 2 },
+                  { "courseName": "ECN325 Public Sector Economics and Policy II", "credits": 2 },
+                  { "courseName": "ECN326 International Economics II", "credits": 2 },
+                  { "courseName": "ECN327 Research Methodology in Economics", "credits": 3 },
+                  { "courseName": "ECN328 Introductory Econometrics II", "credits": 2 },
+                  { "courseName": "DLD121 Leadership Pathways", "credits": 0 },
+                  { "courseName": "EDS321 Enterprenuerial Development Studies VI", "credits": 1 },
+                  { "courseName": "TMC321 Total Man Concept VI", "credits": 1 },
+                  { "courseName": "TMC322 Total Man Concept -VI", "credits": 0 }
                 ],
-                "electives":[],
-                "elective_number": 0
+                "electives":[
+                  { "courseName": "ECN329 Operations Research II", "credits": 2 },
+                  { "courseName": "ECN341 Financial Instituitions", "credits": 2 },
+                  { "courseName": "ECN342 Industrial Economics", "credits": 2 }
+                ],
+                "elective_number": 1
           }
         ]
       },
