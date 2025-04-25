@@ -6,31 +6,33 @@
         "program": "Economics",
         "years" : [
           {
-            "year": "100 Level",
-            "semesters": [
-              {
-                "semester": "Alpha Semester",
-                "courses": [
-                  { "courseName": "ACC111 – Principles of Accounting I", "credits": 2 },
-                  { "courseName": "BUS111 – Introduction to Business I", "credits": 2 },
-                  { "courseName": "CIT111 – Microsoft Office Specialist (WORD)", "credits": 0 },
-                  { "courseName": "ECN111 – Introduction to Economics I", "credits": 3 },
-                  { "courseName": "CBS111 – Mathematics for Business & Social Sciences I", "credits": 3 },
-                  { "courseName": "CST111 – Use of Library & ICT I", "credits": 2 },
-                  { "courseName": "GST111 – Communication in English I", "credits": 2 },
-                  { "courseName": "EDS111 – Entrepreneurial Dev. Studies I", "credits": 1 },
-                  { "courseName": "TMC111 – Total Man Concept I", "credits": 1 },
-                  { "courseName": "TMC112 – TMC - Sports I", "credits": 0 }
-                ],
-                "electives": [
-                  { "courseName": "BFN111 – Introduction to Banking & Finance I", "credits": 2 },
-                  { "courseName": "PSY111 – Introduction to Psychology", "credits": 2 },
-                  { "courseName": "SOC111 – Introduction to Sociology I", "credits": 2 }
-                ],
-
-                "elective_number": 1
-
-              },
+           "year": "200 Level",
+              "semesters": [
+                {
+                  "semester": "Alpha Semester",
+                  "courses": [
+                    { "courseName": "CIT211 Java Foundations Certified Junior Associate", "credits": 0 },
+                    { "courseName": "CSC211 Computer Programming I", "credits": 3 },
+                    { "courseName": "CSC213 Structured Programming", "credits": 3 },
+                    { "courseName": "CSC214 High Performance Computing & Database Management I", "credits": 3 },
+                    { "courseName": "CSC216 Foundations of Sequential and Parallel Programming", "credits": 3 },
+                    { "courseName": "MAT212 Mathematical Methods I", "credits": 3 },
+                    { "courseName": "PHY232 Electric Circuit and Electronics", "credits": 3 },
+                    { "courseName": "GST211 Logic, Philosophy and Human Existence", "credits": 2 },
+                    { "courseName": "DLD111 Foundations of Leadership Development", "credits": 0 },
+                    { "courseName": "EDS211 Entrepreneurial Development Studies III", "credits": 1 },
+                    { "courseName": "TMC211 Total Man Concept III", "credits": 1 },
+                    { "courseName": "TMC212 Total Man Concept –Sports III", "credits": 0 }
+                  ],
+                  "electives": [
+                    { "courseName": "ACC111 Principles of Accounting I", "credits": 2 },
+                    { "courseName": "ECN111 Introduction to Economics I", "credits": 3 },
+                    { "courseName": "MAT213 Differential Equations I", "credits": 3 },
+                    { "courseName": "MAT214 Linear Algebra I", "credits": 2 },
+                    { "courseName": "MAT215 Probability Distribution I", "credits": 3 }
+                  ],
+                  "elective_number":1
+                },
               {
                 "semester": "Omega Semester",
                 "courses": [
